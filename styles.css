@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/*font-family:Pacifico;*/
+
+.background_all{
+    background: url(img/wallpaper1.png);
+    width: 100%;
+    height: 100%;
+    top: 50%;
+}
+
+table{
+    width: 300px;
+    margin: auto;
+  }
+
+td{
+    text-align: center;
+    font-size: 55px;
+    line-height: 134px;
+    padding-right: 60px;
+} 
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
+    font-size: 14px;
+    line-height: 20px;
+    color: #444444;
+    background:"img/background1.png";
+  }
+  
+  h1 {
+    width: 5px;
+    margin: 0 auto 8px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 180px;
+    line-height: 50px;
+    color: #000;
+  }
+  
+  h2 {
+    font-family: "Pacifico";
+    padding-bottom: 12px;
+    font-size: 100px;
+    word-wrap: normal;
+    color: #000;
+    line-height: 100px;
+  }
+
+  a{
+    color: #000;
+    font-size: 60px;
+  }
+
+  li{
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .feedback{
+    background: url("img/feedback.png");
+    padding-bottom: 1080px;
+  }
+
+  .feedback form{
+    font-size: 30px;
+    line-height: 50px;
+  }
+
+  .registration{
+    background: url("img/registrationBG.png");
+    padding-bottom: 1080px;
+    }
+
+  .signUp{
+    background: url("img/signInBG.png");
+    padding-bottom: 1080px;
+  }
+
+  .button_reg{
+    background: #83d0f5;
+    border: 0;
+    font-size:40px ;
+  }
+
+  .button_signUp{
+    background: #8ec89a;
+    border: 0;
+    font-size: 40px;
+  }
+
+  .centre{
+    font-size: 35px;
+    width: 1200px;
+    margin: 0 auto 30px;
+    padding: 0 20px;
+    line-height: 45px;
+  }
+  
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .head_title{
+    position: fixed;
+    z-index: 1000;
+    width: 1920px;
+  }
+
+  .head_signUp{
+    background: url("img/signInBG_head.png");
+    height: 97px;
+  }
+
+  .head_registration{
+    background: url("img/registrationBG_head.png");
+    height: 97px;
+  }
+
+  .head_feedback{
+    background: url("img/feedback_head.png");
+    height: 90px;
+  }
+  
+  .site-header {
+    background: url("img/ShapkaBg2.png");
+    height: 346px;
+    top: 0%;
+  }
+  
+  .site-header p {
+    width: 255px;
+    margin: 0 auto 26px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px; 
+  }
+  
+  .site-header img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .features {
+    width: 1080px;
+    margin: 0 auto 100px;
+    padding: 0 0px;
+  }
+  
+  .advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  .advantages-list {
+    padding: 0;
+    list-style: none;  
+  }
+  
+  .advantages-item {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-left: 38px solid #e2e2e2;
+    color: #999999;
+    text-align: left;
+  }
+  
+  .standard {
+    border-color: #847462;
+    color: #6a6a6a;
+  }
+  
+  .vip{
+    border-color:#8a35c6;
+    color:#000000;
+  }
+
+  body{
+    background: url("img/BG.png");
+    padding-bottom: 6878px;
+  }
+
+  .pgUp{
+    color: #6a0f5a;
+  }
+  
+  .site-footer {
+    min-width: 1900px;
+    min-height: 500px;
+    background-color: #6a0f5a;
+    color: #ffffff;
+  }
+  
+  .site-footer .container {
+    text-align: center;
+  }
+  
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0 20px;
+    font-size: 40px;
+    width: 1100px;
+  }
+
